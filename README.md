@@ -10,4 +10,4 @@ The main idea of the project was to implement some important pieces of code in a
 - **maclaurin**: Approximating $`e^x`$ with the first $`k`$ components of the Maclaurin series, where $`x`$ and $`k`$ are numbers given by the user
 
 # Compilation
-The repository contains the Makefile for compiling. Use `make` to compile all of the `.asm` files.
+The repository contains the Makefile for compiling which uses NASM. Use `make` to compile all of the `.asm` files.
